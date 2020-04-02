@@ -1,0 +1,172 @@
+body  {
+    background-color: #F5FFFA;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+
+#menu {
+    margin-top: 30px;
+    margin-left: 5px;
+    padding: 100;
+    text-align: center;
+
+}
+
+#menu li{
+    list-style: -o-repeating-linear-gradient();
+    display: inline-block;
+}
+
+.box3 {
+    border-top: 0;
+    border-right: 10px lavender solid;
+    border-bottom: 0;
+    border-left: 10px lavender solid;
+    border-style: dotted;
+}
+
+#menu li a{
+    text-decoration: none;
+    position: relative;
+    color: #313131;
+    font-size: 22px;
+    font-weight: 700;
+    font-family: sans-serif;
+    display: block;
+    overflow: hidden;
+    transition: 0.7s all;
+    padding-top: 0px;
+    padding-right: 40px;
+    padding-left: 5px;
+    text-transform: uppercase;
+}
+#menu li a:before{
+    content:'';
+    width: 60px;
+    border-bottom: 8px solid#313131;
+    bottom: 0;
+    right: 350px;
+    transition: 0.7s all;
+}
+#menu li a:hover:before{
+    right: 0;
+}
+
+.h1 {
+    font-size: 18px;
+    color: rgba(233, 217, 190, 0.993);
+    margin-top: 90px;
+    text-align: center;
+   
+}
+h2 {
+    font-size: 23px;
+    color: lightslategray;
+    font-weight: bold;
+    text-align: center;  
+}
+.video {
+    text-align: center;
+}
+.p1 {
+    font-size: 18px;
+    color: lightslategray;
+    font-weight: bold;
+    border-top: 9px lavender solid;
+    border-right: 10px lavender solid;
+    border-bottom: 0;
+    border-left: 10px lavender solid;
+    border-style: dotted;
+    border-radius: 20px;
+    text-align: center;  
+}
+
+.image3 {
+    margin-left: 330px;
+}
+
+button {
+    font-size: 13px;
+    font-weight: bold;
+    margin-left: 7px;
+    color: lightslategray;
+}
+
+
+.container {
+    width: 80%;
+    margin: auto;
+    font-size: 16px;
+}
+
+.box1 {
+    color: rgb(226, 139, 153);
+    font-size: 18px; 
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    word-spacing: inherit;
+    line-height: 2em;
+    border-top: 3px lavender solid;
+    border-right: 3px lavender solid;
+    border-bottom: 3px lavender solid;
+    border-left: 3px lavender solid;
+}
+
+.box1 thead {
+    color: rgb(226, 139, 153);
+    font-weight: bold;
+    font-size: 22px; 
+    font-weight: bold;
+    font-style: normal;
+    word-spacing: 1em;
+}
+
+.li-1 {
+    font-size: 18px;
+    color: lightslategray;
+    font-weight: bold;
+    border-top: 3px lavender solid;
+    border-right: 3px lavender solid;
+    border-bottom: 3px lavender solid;
+    border-left: 3px lavender solid;
+    border: 1px dotted;
+    border-radius: 20px;
+    margin-top: 0;
+    margin-left: 400px;
+    margin-right: 400px;
+    white-space: normal;
+    line-height: 35px;
+}
+
+.box6 {
+    border-top: 9px lavender solid;
+    border-right: 10px lavender solid;
+    border-bottom: 10px lavender solid;
+    border-left: 10px lavender solid;
+    border-style: dotted;
+}
+
+.box7 {
+    border-top: 9px lavender solid;
+    border-right: 10px lavender solid;
+    border-bottom: 10px lavender solid;
+    border-left: 10px lavender solid;
+    border-style: dotted;
+}
+
+.top-top {
+    text-align: center;
+}
+
+
+.box3 {
+    border-top: 9px lavender solid;
+    border-style: dotted;
+}
+
+.recipes {
+    text-align: center;
+}
+
+.for {
+    text-align: center;
+}
