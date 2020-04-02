@@ -1,0 +1,143 @@
+body  {
+    background-color: #F5FFFA;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+
+.clock {
+    margin-top: 0;  
+    border-top: 9px lavender solid;
+    border-right: 10px lavender solid;
+    border-bottom: 0;
+    border-left: 10px lavender solid;
+    border-style: dotted;
+}
+.video {
+    text-align: center;
+    border-top: 9px lavender solid;
+    border-right: 10px lavender solid;
+    border-bottom: 0;
+    border-left: 10px lavender solid;
+    border-style: dotted;
+}
+.h1 {
+    font-size: 15px;
+    font-style: inherit;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: rgba(233, 217, 190, 0.993);
+    text-align: center;
+    margin-top: 2px;
+}
+
+.h2 {
+    font-size: 18px;
+    color: rgba(233, 217, 190, 0.993);
+    text-align: center;
+}
+
+.quo {
+    color: rosybrown;
+    font-weight: bold;
+}
+
+.li {
+    font-size: 18px;
+    color: lightslategray;
+    font-weight: bold;
+    border-top: 3px lavender solid;
+    border-right: 3px lavender solid;
+    border-bottom: 3px lavender solid;
+    border-left: 3px lavender solid;
+    border: 1px dotted;
+    border-radius: 20px;
+    margin-top: 3px;
+    margin-left: 405px;
+    margin-right: 405px;
+    line-height: 35px;
+}
+.pic {
+    border-top: 9px lavender solid;
+    border-right: 10px lavender solid;
+    border-bottom: 10px lavender solid;
+    border-left: 10px lavender solid;
+    border-style: dotted;
+}
+.box5 {
+    border-top: 0;
+    border-right: 10px lavender solid;
+    border-bottom: 10px lavender solid;
+    border-left: 10px lavender solid;
+    border-style: dotted;
+}
+
+.li-c1 {
+    font-size: 18px;
+    color: lightslategray;
+    font-weight: bold;
+    border-top: 3px lavender solid;
+    border-right: 3px lavender solid;
+    border-bottom: 3px lavender solid;
+    border-left: 3px lavender solid;
+    border: 1px dotted;
+    border-radius: 20px;
+    margin-top: 3px;
+    margin-left: 400px;
+    margin-right: 400px;
+    white-space: normal;
+    line-height: 35px;
+    position: relative;
+}
+
+.li-c2 {
+    font-size: 18px;
+    color: lightslategray;
+    font-weight: bold;
+    border-top: 3px lavender solid;
+    border-right: 3px lavender solid;
+    border-bottom: 3px lavender solid;
+    border-left: 3px lavender solid;
+    border: 1px dotted;
+    border-radius: 20px;
+    margin-top: 3px;
+    margin-left: 400px;
+    margin-right: 400px;
+    white-space: normal;
+    line-height: 35px;
+}
+
+.top-top {
+    text-align: center;
+}
+
+
+.de {
+    text-align: center;
+}
+
+.ing-ch {
+    text-align: center;
+}
+
+.video-1 {
+    text-align: center;
+    border-top: 1px lavender solid;
+    border-right: 10px lavender solid;
+    border-bottom: 10px lavender solid;
+    border-left: 10px lavender solid;
+    border-style: dotted;
+}
+
+.欢迎 {
+    text-align: left;
+}
+
+.box7 {
+    text-align: center;
+    border-right: 10px lavender solid;
+    border-left: 10px lavender solid;
+    border-style: dotted;
+}
+
+.ing {
+    text-align: center;
+}
